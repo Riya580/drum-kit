@@ -23,5 +23,6 @@ A simple **Drum Kit** web application that lets users play drum sounds by clicki
 ## 📂 Installation
 1. Clone this repository:
    ```bash
+   git clone https://github.com/Riya580/drum-kit.git
    
 
